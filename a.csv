@@ -1,0 +1,16 @@
+id,age,sex,sitFamily,wayolife,homeassist,fall,nbdrugs,CV,Psy,Antidiabetic,otherdrugs,autowalk
+3,87,Woman,Widower,Alone,0,Yes,6,1,0,1,1,Assist
+6,81,Woman,Widower,Alone,0,No,6,1,1,0,0,Yes
+7,78,Woman,Widower,Alone,0,No,8,1,0,1,1,Yes
+10,75,Woman,Widower,Alone,0,No,2,0,1,1,0,Yes
+12,77,Woman,Widower,Alone,0,No,13,1,1,0,0,Assist
+19,96,Male,Widower,Alone,1,Yes,3,0,0,1,1,Yes
+21,78,Woman,Married,Alone,0,Yes,10,1,1,0,0,Assist
+26,66,Woman,Widower,Alone,0,No,1,0,1,0,0,Yes
+29,81,Woman,Widower,Alone,0,No,8,1,0,1,1,Yes
+40,67,Woman,Widower,Alone,0,No,3,0,0,0,1,Yes
+54,81,Woman,Widower,Alone,0,No,2,1,0,0,0,Yes
+57,83,Woman,Widower,Alone,0,No,3,1,0,0,0,Yes
+59,92,Woman,Widower,Alone,0,Yes,7,0,1,0,0,Assist
+62,95,Woman,Widower,Alone,0,No,6,1,0,1,0,Yes
+63,71,Woman,Widower,Alone,1,No,9,1,1,0,0,Yes
